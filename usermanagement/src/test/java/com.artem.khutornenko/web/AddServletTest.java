@@ -25,7 +25,7 @@ public class AddServletTest extends MockServletTestCase {
 		getMockUserDao().expectAndReturn("create", user, user);
 		addRequestParameter("id", "1000");
 		addRequestParameter("firstName", "Artem");
-		addRequestParameter("lastName", "khutornenko");
+		addRequestParameter("lastName", "Khutornenko");
 		addRequestParameter("dateOfBirth", DateFormat.getDateInstance().format(date));
 		addRequestParameter("okButton", "Ok");
 		doPost();

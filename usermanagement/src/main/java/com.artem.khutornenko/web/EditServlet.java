@@ -15,7 +15,6 @@ import com.artem.khutornenko.User;
 import com.artem.khutornenko.db.DaoFactory;
 import com.artem.khutornenko.db.DatabaseException;
 
-
 public class EditServlet extends HttpServlet {
 
 	/**

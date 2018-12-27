@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="usermanagement">
+    <wb-module deploy-name="Laba5Artem_usermanagement">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
-        <property name="context-root" value="usermanagement"/>
-        <property name="java-output-path" value="/usermanagement/bin"/>
+        <property name="context-root" value="Laba5Artem_usermanagement"/>
+        <property name="java-output-path" value="/Laba5Artem_usermanagement/bin"/>
     </wb-module>
 </project-modules>
